@@ -2396,3 +2396,8 @@ body.is-touch .main {
   font-family: "Bungee Shade", cursive;
   font-size: 10em !important;
 }
+
+.work-journal h1 {
+  font-family: "Bungee Shade", cursive;
+  font-size: 5em !important;
+}
